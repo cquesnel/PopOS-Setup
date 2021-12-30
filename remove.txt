@@ -1,0 +1,5 @@
+Eddy com.github.donadigo.eddy
+Document_Scanner simple-scan
+GNOME_Help yelp
+USB_Flasher popsicle*
+Videos totem

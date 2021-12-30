@@ -1,0 +1,2 @@
+OnlyOffice org.onlyoffice.desktopeditors
+GitKraken com.axosoft.GitKraken

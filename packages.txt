@@ -1,0 +1,28 @@
+Apps Essential Apps
+	Google_Chrome google-chrome-stable
+	VLC vlc
+Development Apps and tools for developers
+	Git git git-lfs gpg
+	Java_Runtime default-jre
+	Visual_Studio_Code code
+	C/C++_development build-essential cmake ninja-build
+	Embedded_Dev openocd gcc-arm-none-eabi
+
+System Shells and apps to configure and monitor the system
+	HTOP htop
+	LM_Sensors lm-sensors hddtemp
+	TLP tlp powertop
+	Ubuntu_Restricted_Extras ubuntu-restricted-extras
+	ZSH zsh zsh-syntax-highlighting zsh-autosuggestions fonts-powerline python3-pip
+
+Utilities Apps such as terminal emulators, text editors, tools, and other stuff
+	BalenaEtcher balena-etcher-electron
+	CuteCom cutecom
+	Terminator terminator
+	dconf-Editor dconf-editor
+	GNOME_Tweaks gnome-tweaks gnome-shell-extensions
+	GParted gparted
+	Neofetch neofetch
+	Trash_CLI trash-cli
+	Tree tree
+	UncomplicatedFirewall ufw
