@@ -7,6 +7,7 @@ Development Apps and tools for developers
 	Visual_Studio_Code code
 	C/C++_development build-essential cmake ninja-build
 	Embedded_Dev openocd gcc-arm-none-eabi
+	Docker docker-ce docker-ce-cli containerd.io
 
 System Shells and apps to configure and monitor the system
 	HTOP htop
