@@ -1,3 +1,5 @@
+Desktop_Specific Specific packages for the desktop computer
+	WiFi_Drivers bcmwl-kernel-source
 Apps Essential Apps
 	Google_Chrome google-chrome-stable
 	VLC vlc
